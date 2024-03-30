@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **next.js , react**
 
-- 💬 Ask me about **Python , Javascript**
+- 💬 Ask me about **python , javascript**
 
 - 📫 How to reach me **gokulpnr2001@gmail.com**
 

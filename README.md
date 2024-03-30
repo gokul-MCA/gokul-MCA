@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm gg</h1>
+<h1 align="center">Hi 👋, I'm Gokul B </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **project**
+- 🔭 I’m currently working on **INIDA PODCAST**
 
 - 🌱 I’m currently learning **next.js**
 
-- 💬 Ask me about **html**
+- 💬 Ask me about **Python , Javascript**
 
-- 📫 How to reach me **gg@gmail.com**
+- 📫 How to reach me **gokulpnr2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gokul-b-8967a0233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

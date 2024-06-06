@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokul B </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on a project ** INDIA PODCAST AS A FRONTEND DEVELOPER **
+- 🔭 I’m currently looking for the Job
 
 - 🌱 I’m currently learning **next.js , react**
 
